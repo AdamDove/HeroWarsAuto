@@ -1,5 +1,5 @@
 # HeroWarsAuto
-This project is just to automate aspects of the game that I personally don't enjoy.  I used the tools above because I wanted to learn them, not because they are the most optimal for this job.
+This project is just to automate aspects of the game that I personally don't enjoy.  I used these tools because I wanted to learn them, not because they are the most optimal for this job.
 
 To date, this will watch all of the ads assuming you are starting from the main screen.
 
